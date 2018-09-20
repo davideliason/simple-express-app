@@ -1,0 +1,6 @@
+{
+	"name" : "test app",
+	"description" : "express with ejs",
+	"repository" : "https://github.com/davideliason/simple-express-app",
+	"keywords" : ["node", "express"]
+}
